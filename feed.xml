@@ -7,7 +7,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/IDS2024F/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/IDS2024F/" />
-<updated>2024-08-21T16:48:32-04:00</updated>
+<updated>2024-08-26T15:03:45-04:00</updated>
 <id>http:/IDS2024F/</id>
 <author>
   <name>Amir Shahmoradi</name>
@@ -58,7 +58,7 @@ languages and their mutual interaction with rapid developments in natural scienc
   
   <content type="html">
   
-    &lt;p&gt;♣ &lt;strong&gt;Due Date: Monday Sep 2, 2024 4:00 PM&lt;/strong&gt;. This homework aims at giving you some experience on how to work with Git and GitHub.&lt;/p&gt;
+    &lt;p&gt;♣ &lt;strong&gt;Due Date: Monday Sep 9, 2024 4:00 PM&lt;/strong&gt;. This homework aims at giving you some experience on how to work with Git and GitHub.&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/vcs-git-github-setup/vcs-git-github-setup&quot; target=&quot;_blank&quot;&gt;Setting up Git Software and Connecting it to your GitHub Account&lt;/a&gt;.&lt;/li&gt;
