@@ -7,7 +7,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/IDS2024F/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/IDS2024F/" />
-<updated>2024-09-05T17:27:59-04:00</updated>
+<updated>2024-09-05T17:29:39-04:00</updated>
 <id>http:/IDS2024F/</id>
 <author>
   <name>Amir Shahmoradi</name>
@@ -106,7 +106,7 @@ Inside the &lt;code&gt;hw&lt;/code&gt; folder, create another folder named &lt;c
   
   <content type="html">
   
-    &lt;p&gt;On the first day of our class, we will try to get to know each other. I will bring brownies to class and describe my research work and educational background for you and learn about all of you and your background and future goals. We will also our expectations from this course. I will present the results of the survey that I sent out to you a week ago to assess your Data Science topical interests and knowledge, and your programming skills. Based on the survey results and your feedback in class, we will decide on the choice of language and the design of this course.&lt;/p&gt;
+    &lt;p&gt;On the first day of our class, we will try to get to know each other. I will bring brownies to class and describe my research work and educational background for you and learn about all of you and your background and future goals. We will also review our expectations from this course. I will present the results of the survey that I sent out to you a week ago to assess your Data Science topical interests and knowledge, and your programming skills. Based on the survey results and your feedback in class, we will decide on the choice of language and the design of this course.&lt;/p&gt;
 
 &lt;div class=&quot;post_toc&quot;&gt;&lt;/div&gt;
 
