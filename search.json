@@ -1,6 +1,22 @@
 [
 	
 		{
+		  "title"      : "Lecture 2: Scientific Computing - A Brief History and the State of the Art",
+		  "category"   : "",
+		  "url"        : "/IDS2024F/lecture/2-programming-history",
+		  "date"       : "2024-09-23 00:00:00 -0400",
+		  "shortdate"  : "September 23, 2024"
+		} ,
+	
+		{
+		  "title"      : "Homework 2: Programming History",
+		  "category"   : "",
+		  "url"        : "/IDS2024F/homework/2-programming-history",
+		  "date"       : "2024-09-23 00:00:00 -0400",
+		  "shortdate"  : "September 23, 2024"
+		} ,
+	
+		{
 		  "title"      : "Quiz 1: Version Control Systems",
 		  "category"   : "",
 		  "url"        : "/IDS2024F/quiz/1-intro-vcs",

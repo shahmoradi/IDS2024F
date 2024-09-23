@@ -7,8 +7,18 @@ callback([
   } ,
 
   {
+    "text": "Lecture 2: Scientific Computing - A Brief History and the State of the Art",
+    "href": "/IDS2024F/lecture/2-programming-history"
+  } ,
+
+  {
     "text": "Lecture 1: Scientific Computing - A Brief History and the State of the Art",
     "href": "/IDS2024F/lecture/1-data-science"
+  } ,
+
+  {
+    "text": "Homework 2: Programming History",
+    "href": "/IDS2024F/homework/2-programming-history"
   } ,
 
   {
