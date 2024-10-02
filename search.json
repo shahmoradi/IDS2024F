@@ -1,10 +1,18 @@
 [
 	
 		{
+		  "title"      : "Quiz 2: Programming History",
+		  "category"   : "",
+		  "url"        : "/IDS2024F/quiz/2-prog-hist",
+		  "date"       : "2024-10-02 00:00:00 -0500",
+		  "shortdate"  : "October 02, 2024"
+		} ,
+	
+		{
 		  "title"      : "Lecture 2: Scientific Computing - A Brief History and the State of the Art",
 		  "category"   : "",
 		  "url"        : "/IDS2024F/lecture/2-programming-history",
-		  "date"       : "2024-09-23 00:00:00 -0400",
+		  "date"       : "2024-09-23 00:00:00 -0500",
 		  "shortdate"  : "September 23, 2024"
 		} ,
 	
@@ -12,7 +20,7 @@
 		  "title"      : "Homework 2: Programming History",
 		  "category"   : "",
 		  "url"        : "/IDS2024F/homework/2-programming-history",
-		  "date"       : "2024-09-23 00:00:00 -0400",
+		  "date"       : "2024-09-23 00:00:00 -0500",
 		  "shortdate"  : "September 23, 2024"
 		} ,
 	
@@ -20,7 +28,7 @@
 		  "title"      : "Quiz 1: Version Control Systems",
 		  "category"   : "",
 		  "url"        : "/IDS2024F/quiz/1-intro-vcs",
-		  "date"       : "2024-09-18 00:00:00 -0400",
+		  "date"       : "2024-09-18 00:00:00 -0500",
 		  "shortdate"  : "September 18, 2024"
 		} ,
 	
@@ -28,7 +36,7 @@
 		  "title"      : "Lecture 1: Scientific Computing - A Brief History and the State of the Art",
 		  "category"   : "",
 		  "url"        : "/IDS2024F/lecture/1-data-science",
-		  "date"       : "2024-08-21 00:00:00 -0400",
+		  "date"       : "2024-08-21 00:00:00 -0500",
 		  "shortdate"  : "August 21, 2024"
 		} ,
 	
@@ -36,7 +44,7 @@
 		  "title"      : "Homework 1: Version Control Using Git and Github",
 		  "category"   : "",
 		  "url"        : "/IDS2024F/homework/1-vcs",
-		  "date"       : "2024-08-21 00:00:00 -0400",
+		  "date"       : "2024-08-21 00:00:00 -0500",
 		  "shortdate"  : "August 21, 2024"
 		} ,
 	
@@ -44,7 +52,7 @@
 		  "title"      : "Announcement 0: Student-professor connection day",
 		  "category"   : "",
 		  "url"        : "/IDS2024F/announcement/0-student-professor-connection-day",
-		  "date"       : "2024-08-19 00:00:00 -0400",
+		  "date"       : "2024-08-19 00:00:00 -0500",
 		  "shortdate"  : "August 19, 2024"
 		} ,
 	
@@ -52,7 +60,7 @@
 		  "title"      : "Announcement 1: Assessing your programming knowledge and interests",
 		  "category"   : "",
 		  "url"        : "/IDS2024F/announcement/1-assessing-your-programming-knowledge-and-interests",
-		  "date"       : "2024-08-12 00:00:00 -0400",
+		  "date"       : "2024-08-12 00:00:00 -0500",
 		  "shortdate"  : "August 12, 2024"
 		} 
 	
