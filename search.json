@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Lecture 3: Logic and Probability Theory",
+		  "category"   : "",
+		  "url"        : "/IDS2024F/lecture/3-logic.probability",
+		  "date"       : "2024-10-07 00:00:00 -0500",
+		  "shortdate"  : "October 07, 2024"
+		} ,
+	
+		{
 		  "title"      : "Quiz 2: Programming History",
 		  "category"   : "",
 		  "url"        : "/IDS2024F/quiz/2-prog-hist",

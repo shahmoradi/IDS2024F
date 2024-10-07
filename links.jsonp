@@ -12,6 +12,11 @@ callback([
   } ,
 
   {
+    "text": "Lecture 3: Logic and Probability Theory",
+    "href": "/IDS2024F/lecture/3-logic.probability"
+  } ,
+
+  {
     "text": "Lecture 2: Scientific Computing - A Brief History and the State of the Art",
     "href": "/IDS2024F/lecture/2-programming-history"
   } ,
