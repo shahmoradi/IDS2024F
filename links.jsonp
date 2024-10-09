@@ -27,6 +27,11 @@ callback([
   } ,
 
   {
+    "text": "Homework 3: Logic and Probability Theory",
+    "href": "/IDS2024F/homework/3-logic"
+  } ,
+
+  {
     "text": "Homework 2: Programming History",
     "href": "/IDS2024F/homework/2-programming-history"
   } ,

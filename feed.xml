@@ -7,13 +7,90 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/IDS2024F/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/IDS2024F/" />
-<updated>2024-10-07T16:00:13-05:00</updated>
+<updated>2024-10-09T14:41:01-05:00</updated>
 <id>http:/IDS2024F/</id>
 <author>
   <name>Amir Shahmoradi</name>
   <uri>http:/IDS2024F/</uri>
   <email>shahmoradi@utexas.edu</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Homework 3: Logic and Probability Theory]]></title>
+  <link rel="alternate" type="text/html" href="http:/IDS2024F/homework/3-logic"/>
+  <id>http:/IDS2024F/homework/3-logic</id>
+  <published>2024-10-09T00:00:00-05:00</published>
+  <updated>2024-10-09T00:00:00-05:00</updated>
+  <author>
+    <name>Amir Shahmoradi</name>
+    <uri>http:/IDS2024F</uri>
+    <email>shahmoradi@utexas.edu</email>
+  </author>
+  
+  <content type="html">
+  
+    
+&lt;p&gt;♣ &lt;strong&gt;Due Date: Wednesday Oct 16, 2024 at 4 PM&lt;/strong&gt;. This homework aims at giving you some experience with logical thinking and algebra.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Name the three pillars of Science.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Name and briefly describe three different applications of Computational and Data Sciences.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-two-types-of-scientific-reasoning/logic/logic-two-types-of-scientific-reasoning&quot; target=&quot;_blank&quot;&gt;Name the two types of scientific reasoning&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Provide an example that shows logical implication does not necessarily imply physical causation.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-policeman-jewelry-burglar/logic/logic-policeman-jewelry-burglar&quot; target=&quot;_blank&quot;&gt;Policeman, jewelry, and burglar&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-implication/logic/logic-implication&quot; target=&quot;_blank&quot;&gt;Logical Implication&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-product-denial/logic/logic-product-denial&quot; target=&quot;_blank&quot;&gt;Logical product denial&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-functions-1d/logic-functions-1d&quot; target=&quot;_blank&quot;&gt;Logic functions with 1 input&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-functions-2d/logic-functions-2d&quot; target=&quot;_blank&quot;&gt;Logic functions with 2 input&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-functions-operations/logic-functions-operations&quot; target=&quot;_blank&quot;&gt;Logic functions in terms of logic functions&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-fundamental-operations/logic-fundamental-operations&quot; target=&quot;_blank&quot;&gt;The fundamental logical operators&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Consider the following series of questions:&lt;br /&gt;
+a.  What is the tiniest unit of information?&lt;br /&gt;
+    &lt;strong&gt;Hint&lt;/strong&gt;: This unit also represents the tiniest bit of information in computers.&lt;br /&gt;
+b.  Why does this amount of information represent the tiniest information unit?&lt;br /&gt;
+    &lt;strong&gt;Hint&lt;/strong&gt;: Use inductive logic with examples to explain your reasoning.&lt;br /&gt;
+    Imagine yourself as a single dot in empty space in a universe devoid of anything else.&lt;br /&gt;
+    Would you be able to tell your coordinates in the universe? &lt;br /&gt;
+    or whether you are moving? or at what constant speed?&lt;br /&gt;
+    Why?  What extra piece of information do you need to answer the above questions?&lt;br /&gt;
+c.  Let’s assign a box to this tiniest representable amount of information.&lt;br /&gt;
+    Obviously, we cannot represent much information with it. 
+    So, our remedy is to put multiple of these boxes to represent information about something.    &lt;br /&gt;
+    1.  How many different things can we assign to (or represent with) a collection of 1 such boxes?&lt;br /&gt;
+    2.  How many different things can we assign to (or represent with) a collection of 2 such boxes?&lt;br /&gt;
+    3.  How many different things can we assign to (or represent with) a collection of 3 such boxes?&lt;br /&gt;
+    &lt;strong&gt;Hint&lt;/strong&gt;: Draw binary trees as we described in class to justify your answers.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/IDS2024F/homework/3-logic&quot;&gt;Homework 3: Logic and Probability Theory&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2024F&quot;&gt;DATA 1301 - Fall 2024 - MW 16:00-17:20 - PKH 113 / Microsoft Teams Virtual Room&lt;/a&gt; on October 09, 2024.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
