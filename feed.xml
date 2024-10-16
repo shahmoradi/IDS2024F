@@ -7,13 +7,120 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/IDS2024F/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/IDS2024F/" />
-<updated>2024-10-14T23:12:34-05:00</updated>
+<updated>2024-10-16T16:00:23-05:00</updated>
 <id>http:/IDS2024F/</id>
 <author>
   <name>Amir Shahmoradi</name>
   <uri>http:/IDS2024F/</uri>
   <email>shahmoradi@utexas.edu</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Quiz 3: Inference and Logic Fundamentals]]></title>
+  <link rel="alternate" type="text/html" href="http:/IDS2024F/quiz/3-logic"/>
+  <id>http:/IDS2024F/quiz/3-logic</id>
+  <published>2024-10-16T00:00:00-05:00</published>
+  <updated>2024-10-16T00:00:00-05:00</updated>
+  <author>
+    <name>Amir Shahmoradi</name>
+    <uri>http:/IDS2024F</uri>
+    <email>shahmoradi@utexas.edu</email>
+  </author>
+  
+  <content type="html">
+  
+    
+&lt;p&gt;This quiz aims at testing your basic knowledge of Scientific Inference and Logic.&lt;br /&gt;
+Don’t forget to push your answers to your remote repository by the end of quiz time.&lt;br /&gt;
+Push all your answers to &lt;strong&gt;quiz/3/&lt;/strong&gt; folder in your Github project.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hint&lt;/strong&gt;.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Remember that in mathematics and Data Science, 
+especially when proving or deriving something (like drawing Venn diagrams or Truth Tables)
+it is best to split the whole process (solution) to the tiniest steps possible and
+achieve them one after the other.&lt;/li&gt;
+  &lt;li&gt;All derivation and proof questions are based on what we have covered in lecture slides and HW.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Name and describe briefly the steps involved in scientific inference.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Name the three pillars of science.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Describe three different &lt;strong&gt;major&lt;/strong&gt; applications of the third pillar of science with respect to the first two.&lt;br /&gt;
+(&lt;strong&gt;Hint&lt;/strong&gt;: Recall the discussions we had early in the semester during the first lecture series. Where and how could the third pillar replace the other pillars?)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Name the two different categories of logical reasoning and provide and example of each class.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What is the relationship between data and reality? Can we observe reality? &lt;br /&gt;
+(&lt;strong&gt;Hint&lt;/strong&gt;: Recall the discussions we had early in the semester during the first lecture series. Remember the pyramid of scientific inference.)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What is the difference between model validation and calibration?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Is logical implication the same as physical causation? Explain with an example.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Who is the Boolean algebra named after?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Illustrate the logical conjunction via a Venn Diagram.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Illustrate the logical disjunction via a Venn Diagram.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What does it mean if two Boolean propositions are equal?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What is the result of adding two propositions that complement each other?  &lt;br /&gt;
+Explain you answer with an example.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What is the result of multiplying (that is, conjunction of) two propositions that complement each other?  &lt;br /&gt;
+Explain you answer with an example.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Display the &lt;strong&gt;logical implication&lt;/strong&gt; $A \Rightarrow B$ via a Venn diagram.&lt;br /&gt;
+(&lt;strong&gt;Hint&lt;/strong&gt;. Think about the meaning of &lt;strong&gt;logical implication&lt;/strong&gt; $A \Rightarrow B$: 
+If $A$ is true, then $B$ &lt;strong&gt;must be&lt;/strong&gt; true. 
+If $A$ is false, then $B$ &lt;strong&gt;can be either&lt;/strong&gt; true or false.
+What configuration of $A$ and $B$ circles in a Venn diagram would correspond to the above statement for logical implication? 
+Recall that when you are inside an object (circle) in a Venn diagram, it means the proposition corresponding to that object is true. 
+When you are outside, the proposition is false.)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What is the tiniest unit of information?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Imagine our universe was completely empty with nothing in it. Does this universe contain any information?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Consider 4 bits of storage. How many integers (or call it different states, or different possibilities) can you represent with it?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Consider 4 boxes each of which can take 3 possible values (or call it states): \(-1, 0, +1\). 
+How many decimal integers (or call it different states, or different possibilities) can you represent with these 4 boxes?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/IDS2024F/quiz/3-logic&quot;&gt;Quiz 3: Inference and Logic Fundamentals&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2024F&quot;&gt;DATA 1301 - Fall 2024 - MW 16:00-17:20 - PKH 113 / Microsoft Teams Virtual Room&lt;/a&gt; on October 16, 2024.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>

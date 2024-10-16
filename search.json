@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Quiz 3: Inference and Logic Fundamentals",
+		  "category"   : "",
+		  "url"        : "/IDS2024F/quiz/3-logic",
+		  "date"       : "2024-10-16 00:00:00 -0500",
+		  "shortdate"  : "October 16, 2024"
+		} ,
+	
+		{
 		  "title"      : "Homework 3: Logic and Probability Theory",
 		  "category"   : "",
 		  "url"        : "/IDS2024F/homework/3-logic",
