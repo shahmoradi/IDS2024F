@@ -7,7 +7,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/IDS2024F/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/IDS2024F/" />
-<updated>2024-10-16T16:00:23-05:00</updated>
+<updated>2024-10-17T16:19:05-05:00</updated>
 <id>http:/IDS2024F/</id>
 <author>
   <name>Amir Shahmoradi</name>
@@ -52,46 +52,104 @@ achieve them one after the other.&lt;/li&gt;
 &lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;Name and describe briefly the steps involved in scientific inference.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;/p&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Observational data collection and reduction.&lt;/li&gt;
+      &lt;li&gt;Hypothesis formation.&lt;/li&gt;
+      &lt;li&gt;Calibration.&lt;/li&gt;
+      &lt;li&gt;Validation.&lt;/li&gt;
+      &lt;li&gt;Prediction.&lt;/li&gt;
+    &lt;/ol&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Name the three pillars of science.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+Theory, Experiment, Computation.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Describe three different &lt;strong&gt;major&lt;/strong&gt; applications of the third pillar of science with respect to the first two.&lt;br /&gt;
 (&lt;strong&gt;Hint&lt;/strong&gt;: Recall the discussions we had early in the semester during the first lecture series. Where and how could the third pillar replace the other pillars?)&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;/p&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Simulations can serve as theory where not available.&lt;/li&gt;
+      &lt;li&gt;Simulations can serve as experimental data where not available.&lt;/li&gt;
+      &lt;li&gt;Simulations can be used to predict quantities that are not readily or currently measurable.&lt;/li&gt;
+    &lt;/ol&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Name the two different categories of logical reasoning and provide and example of each class.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;/p&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Deductive reasoning: If A is true, then B is true.&lt;/li&gt;
+      &lt;li&gt;Plausible reasoning: If A is true, then B is more likely to be true.&lt;/li&gt;
+    &lt;/ol&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;What is the relationship between data and reality? Can we observe reality? &lt;br /&gt;
 (&lt;strong&gt;Hint&lt;/strong&gt;: Recall the discussions we had early in the semester during the first lecture series. Remember the pyramid of scientific inference.)&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+Data is what we observe. Reality is what we never observed because it is always obfuscated with noise.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;What is the difference between model validation and calibration?&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+Calibration is about finding the best-fit parameters of the model and validation is about validating the predictions of the model on a test dataset.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Is logical implication the same as physical causation? Explain with an example.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+No. “The sky is rainy” implies that “the sky is cloudy”. However, rainy sky did not physically cause the cloudy sky.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Who is the Boolean algebra named after?&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+George Boole&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Illustrate the logical conjunction via a Venn Diagram.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+See the the lecture notes.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Illustrate the logical disjunction via a Venn Diagram.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+See the the lecture notes.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;What does it mean if two Boolean propositions are equal?&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+It means they have the same truth value.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;What is the result of adding two propositions that complement each other?  &lt;br /&gt;
 Explain you answer with an example.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+Proposition A: The sky is sunny.&lt;br /&gt;
+Proposition B: The sky is NOT sunny.&lt;br /&gt;
+A and B are complementary. Therefore, the result of \(A + B\) is always true, 
+because the sky is always either sunny or not sunny at any given time.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;What is the result of multiplying (that is, conjunction of) two propositions that complement each other?  &lt;br /&gt;
 Explain you answer with an example.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+Proposition A: The sky is sunny.&lt;br /&gt;
+Proposition B: The sky is NOT sunny.&lt;br /&gt;
+A and B are complementary. Therefore, the result of \(AB\) is always true, 
+because the sky can never be both sunny and not sunny at the same time.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Display the &lt;strong&gt;logical implication&lt;/strong&gt; $A \Rightarrow B$ via a Venn diagram.&lt;br /&gt;
@@ -101,19 +159,35 @@ If $A$ is false, then $B$ &lt;strong&gt;can be either&lt;/strong&gt; true or fal
 What configuration of $A$ and $B$ circles in a Venn diagram would correspond to the above statement for logical implication? 
 Recall that when you are inside an object (circle) in a Venn diagram, it means the proposition corresponding to that object is true. 
 When you are outside, the proposition is false.)&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+See the the lecture notes.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;What is the tiniest unit of information?&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+A bit.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Imagine our universe was completely empty with nothing in it. Does this universe contain any information?&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+No. To have the tiniest bit of information, we have to have at least two contrasting entities, 
+like true vs. false, or 0 vs. 1, or something against nothing.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Consider 4 bits of storage. How many integers (or call it different states, or different possibilities) can you represent with it?&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+\(2^4\).&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Consider 4 boxes each of which can take 3 possible values (or call it states): \(-1, 0, +1\). 
 How many decimal integers (or call it different states, or different possibilities) can you represent with these 4 boxes?&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+\(3^4\).&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
