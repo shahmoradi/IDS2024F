@@ -7,13 +7,78 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/IDS2024F/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/IDS2024F/" />
-<updated>2024-10-21T10:29:54-05:00</updated>
+<updated>2024-10-21T14:53:08-05:00</updated>
 <id>http:/IDS2024F/</id>
 <author>
   <name>Amir Shahmoradi</name>
   <uri>http:/IDS2024F/</uri>
   <email>shahmoradi@utexas.edu</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Homework 4: Logical Expressions and Probability Theory]]></title>
+  <link rel="alternate" type="text/html" href="http:/IDS2024F/homework/4-logic-probability"/>
+  <id>http:/IDS2024F/homework/4-logic-probability</id>
+  <published>2024-10-21T00:00:00-05:00</published>
+  <updated>2024-10-21T00:00:00-05:00</updated>
+  <author>
+    <name>Amir Shahmoradi</name>
+    <uri>http:/IDS2024F</uri>
+    <email>shahmoradi@utexas.edu</email>
+  </author>
+  
+  <content type="html">
+  
+    
+&lt;p&gt;♣ &lt;strong&gt;Due Date: Wednesday Oct 30, 2024 at 4 PM&lt;/strong&gt;. This homework aims at giving you some experience with logical proofs and probability theory.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-implication/logic/logic-implication&quot; target=&quot;_blank&quot;&gt;Logical Implication&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-product-denial/logic/logic-product-denial&quot; target=&quot;_blank&quot;&gt;Logical product denial&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-functions-1d/logic-functions-1d&quot; target=&quot;_blank&quot;&gt;Logic functions with 1 input&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-functions-2d/logic-functions-2d&quot; target=&quot;_blank&quot;&gt;Logic functions with 2 input&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-functions-operations/logic-functions-operations&quot; target=&quot;_blank&quot;&gt;Logic functions in terms of logic functions&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-fundamental-operations/logic-fundamental-operations&quot; target=&quot;_blank&quot;&gt;The fundamental logical operators&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-nand-nor/logic/logic-nand-nor&quot; target=&quot;_blank&quot;&gt;Logic NAND and NOR&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-a-nand-equivalence/logic/logic-a-nand-equivalence&quot; target=&quot;_blank&quot;&gt;Logic NAND equivalence&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-implication-denial-equivalence/logic/logic-implication-denial-equivalence&quot; target=&quot;_blank&quot;&gt;Logic implication, denial, equivalence&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-boolean-algebra-venn-diagram/logic/logic-boolean-algebra-venn-diagram&quot; target=&quot;_blank&quot;&gt;Respond to this question&lt;/a&gt; &lt;strong&gt;only&lt;/strong&gt; for the cases of &lt;strong&gt;Distributivity&lt;/strong&gt; and &lt;strong&gt;Duality&lt;/strong&gt; identities.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-boolean-algebra-truth-table/logic/logic-boolean-algebra-truth-table&quot; target=&quot;_blank&quot;&gt;Respond to this question&lt;/a&gt; &lt;strong&gt;only&lt;/strong&gt; for the cases of &lt;strong&gt;Distributivity&lt;/strong&gt; and &lt;strong&gt;Duality&lt;/strong&gt; identities.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/probability-correspondence-with-common-sense/probability-correspondence-with-common-sense&quot; target=&quot;_blank&quot;&gt;Probability Theory: correspondence with commonsense&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/probability-desiderata/probability-desiderata&quot; target=&quot;_blank&quot;&gt;The fundamental desiderata of Probability Theory&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/IDS2024F/homework/4-logic-probability&quot;&gt;Homework 4: Logical Expressions and Probability Theory&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2024F&quot;&gt;DATA 1301 - Fall 2024 - MW 16:00-17:20 - PKH 113 / Microsoft Teams Virtual Room&lt;/a&gt; on October 21, 2024.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
