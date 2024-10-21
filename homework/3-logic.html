@@ -147,45 +147,97 @@ MathJax.Hub.Queue(function() {
 <ol>
   <li>
     <p>Name the three pillars of Science.</p>
+
+    <p><strong>Answer:</strong><br />
+Experiment, Theory, Computation.</p>
   </li>
   <li>
     <p>Name and briefly describe three different applications of Computational and Data Sciences.</p>
+
+    <p><strong>Answer:</strong><br />
+Predictive modeling, numerical simulation, data-driven modeling.</p>
   </li>
   <li>
     <p><a href="https://www.cdslab.org/recipes/programming/logic-two-types-of-scientific-reasoning/logic/logic-two-types-of-scientific-reasoning" target="_blank">Name the two types of scientific reasoning</a>.</p>
+
+    <p><strong>Answer:</strong><br />
+Deductive and Inductive (plausible) reasoning.</p>
   </li>
   <li>
     <p>What is the difference between <strong>observational data</strong> and <strong>reality</strong>?</p>
+
+    <p><strong>Answer:</strong><br />
+Observational data is what we perceive of the nature. Reality is what we will never know because it is always obfuscated with our biases and measurement uncertainties.</p>
   </li>
   <li>
     <p>Name the three stages of scientific inference in the prediction pyramid.</p>
+
+    <p><strong>Answer:</strong></p>
+    <ol>
+      <li>Model calibration (training) where we constrain the model parameters to subsequently make predictions using the model,</li>
+      <li>Model validation where we validate and confirm the accuracy the calibrated model prediction,</li>
+      <li>Model prediction where we predict a quantity of interest based on the validated model.</li>
+    </ol>
   </li>
   <li>
     <p>What is a <strong>logical proposition</strong>?</p>
+
+    <p><strong>Answer:</strong><br />
+In deductive logic, a proposition is a statement that can be either true or false; it must be one or the other, and it cannot be both.</p>
   </li>
   <li>
     <p>Can a <strong>logical proposition</strong> be simultaneously both <em>true</em> and <em>false</em> in deductive reasoning? (Hint: Explain with an example.)</p>
+
+    <p><strong>Answer:</strong><br />
+No, take the example proposition <strong>I am alive.</strong>. It is either true or false but not both simultaneously.</p>
   </li>
   <li>
     <p>Does \(A\Rightarrow B\) necessitate \(B \Rightarrow A\)? (Hint: Explain with an example.)</p>
+
+    <p><strong>Answer:</strong><br />
+No. Set \(A\equiv \text{The sky is rainy}\) and \(B\equiv \text{The sky is cloudy}\).
+Even though \(A\Rightarrow B\) holds, \(B\Rightarrow A\) may not necessarily hold.</p>
   </li>
   <li>
     <p>Represent via a Venn diagram, the <strong>logical sum</strong> or <strong>disjunction</strong> of two propositions: \(A + B\)? 
 (Hint: Take \(A\) and \(B\) to be two arbitrary propositions, i.e., circles in the Venn diagram that may partially overlap. Then draw the area that corresponds to \(A + B\).)</p>
+
+    <p><strong>Answer:</strong><br />
+<img src="./3/disjunction.svg" alt="disjunction" /></p>
   </li>
   <li>
     <p>Represent via a Venn diagram, the <strong>logical product</strong> or <strong>conjunction</strong> of two propositions: \(A + B\)? 
 (Hint: Take \(A\) and \(B\) to be two arbitrary propositions, i.e., circles in the Venn diagram that may partially overlap. Then draw the area that corresponds to \(A + B\).)</p>
+
+    <p><strong>Answer:</strong><br />
+<img src="./3/conjunction.svg" alt="disjunction" /></p>
   </li>
   <li>
     <p>Draw a Venn diagram of two propositions \(A\) and \(B\) that corresponds to \(A\Rightarrow B\). 
 (Hint: Recall our class discussion and examples that \(A\Rightarrow B\) means that <em>if \(A\) is true, then \(B\) is true</em>. What configuration of two circles in a Venn diagram corresponding to propositions \(A\) and \(B\) would represent this statement?)</p>
+
+    <p><strong>Answer:</strong><br />
+<img src="./3/implication.png" alt="implication" /><br />
+<br />
+Also, refer to the example problem we solved in class.</p>
   </li>
   <li>
     <p>Provide an example that shows logical implication does not necessarily imply physical causation.</p>
+
+    <p><strong>Answer:</strong><br />
+The rain at 10 am is not the physical cause of the clouds at 9:45 am. Nevertheless, the proper logical connection is not in the uncertain causal direction 
+(clouds $\Rightarrow$ rain), but rather (rain $\Rightarrow$  clouds), which is certain, although noncausal.</p>
   </li>
   <li>
     <p><a href="https://www.cdslab.org/recipes/programming/logic-policeman-jewelry-burglar/logic/logic-policeman-jewelry-burglar" target="_blank">Policeman, jewelry, and burglar</a>.</p>
+
+    <p><strong>Answer:</strong><br />
+\(\begin{eqnarray}
+    A &amp;\equiv&amp; \text{A burglar alarm goes off.} \\
+    B &amp;\equiv&amp; \text{A gentleman is wearing a mask while crawling out of broken window with a bag full of expensive jewelry.} \\
+    C &amp;\equiv&amp; \text{Burglary has happened.} \\
+\end{eqnarray}\)<br />
+If \(A\) is true, and \(B\) is true, then \(C\) is highly plausible.</p>
   </li>
   <li>
     <p>Consider the following series of questions:<br />
@@ -203,6 +255,16 @@ c.  Let’s assign a box to this tiniest representable amount of information.<br
     1.  How many different things can we assign to (or represent with) a collection of 1 such boxes?<br />
     2.  How many different things can we assign to (or represent with) a collection of 2 such boxes?<br />
     3.  How many different things can we assign to (or represent with) a collection of 3 such boxes?</p>
+
+    <p><strong>Answer:</strong><br />
+a.  A <strong>bit</strong> (which can be true vs. false, or 0 vs. 1).<br />
+b.  Because a single value does not contain any information. It becomes informative only when it is contrasted with a an opposite value.<br />
+    A single dot in the universe won’t be able to tell its coordinates or whether it is moving. It needs a reference frame.<br />
+    A reference point is essential to answer the location and velocity questions.<br />
+c.  Each box can have only two states. Therefore,
+    1.  One box can represent only one bit of information (two states).
+    2.  Two boxes can represent only two bits of information (four states).
+    2.  Three boxes can represent only three bits of information (eight states).</p>
   </li>
 </ol>
 
@@ -272,8 +334,8 @@ c.  Let’s assign a box to this tiniest representable amount of information.<br
 
     <footer class="notepad-site-footer">
     <div class="copyright">
-         <!-- <section>Last updated 2024 / 10 / 17</section></br> -->
-         <section>Last updated Thursday, 17 Oct 2024 at 04:19 PM CST</section></br>
+         <!-- <section>Last updated 2024 / 10 / 21</section></br> -->
+         <section>Last updated Monday, 21 Oct 2024 at 10:29 AM CST</section></br>
          <section>All content exclusively maintained by <a href=https://www.shahmoradi.org target="_blank">Amir Shahmoradi</a> <!-- &copy;--> </section></br>
          <section><a class="icon-ghost" href="https://www.uta.edu/physics/" target="_blank">Department of Physics | Data Science Program</a></section></br>
          <section><a class="icon-ghost" href="https://www.uta.edu/" target="_blank">The University of Texas at Arlington</a></section></br>
