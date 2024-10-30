@@ -2,6 +2,11 @@
 callback([
 
   {
+    "text": "Quiz 4: Logic and Boolean Algebra",
+    "href": "/IDS2024F/quiz/4-logic-functions"
+  } ,
+
+  {
     "text": "Quiz 3: Inference and Logic Fundamentals",
     "href": "/IDS2024F/quiz/3-logic"
   } ,

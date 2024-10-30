@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Quiz 4: Logic and Boolean Algebra",
+		  "category"   : "",
+		  "url"        : "/IDS2024F/quiz/4-logic-functions",
+		  "date"       : "2024-10-30 00:00:00 -0500",
+		  "shortdate"  : "October 30, 2024"
+		} ,
+	
+		{
 		  "title"      : "Lecture 4: Probability Theory",
 		  "category"   : "",
 		  "url"        : "/IDS2024F/lecture/4-probability",
