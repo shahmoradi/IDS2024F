@@ -22,6 +22,11 @@ callback([
   } ,
 
   {
+    "text": "Lecture 5: Data Visualization Techniques",
+    "href": "/IDS2024F/lecture/5-data.vis"
+  } ,
+
+  {
     "text": "Lecture 4: Probability Theory",
     "href": "/IDS2024F/lecture/4-probability"
   } ,
@@ -39,6 +44,11 @@ callback([
   {
     "text": "Lecture 1: Scientific Computing - A Brief History and the State of the Art",
     "href": "/IDS2024F/lecture/1-data-science"
+  } ,
+
+  {
+    "text": "Homework 5: Data visualization, modeling, and classification",
+    "href": "/IDS2024F/homework/5-data-vis-modeling"
   } ,
 
   {
