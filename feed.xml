@@ -7,7 +7,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/IDS2024F/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/IDS2024F/" />
-<updated>2024-11-11T15:04:35-06:00</updated>
+<updated>2024-11-18T12:17:14-06:00</updated>
 <id>http:/IDS2024F/</id>
 <author>
   <name>Amir Shahmoradi</name>
@@ -99,7 +99,7 @@ Numerical/Categorical?&lt;br /&gt;
 Continuous/Discrete?&lt;br /&gt;
 Ordered/Unordered?
     &lt;figure&gt;
-    &lt;img src=&quot;./3/data.types.png&quot; alt=&quot;data types&quot; style=&quot;width:100%&quot; /&gt;
+    &lt;img src=&quot;./5/data.types.png&quot; alt=&quot;data types&quot; style=&quot;width:100%&quot; /&gt;
 &lt;/figure&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -110,7 +110,7 @@ Ordered/Unordered?
   &lt;/li&gt;
   &lt;li&gt;Which one of the following three coordinates are valid and can be used to represent data?
     &lt;figure&gt;
-    &lt;img src=&quot;./3/coordinates.png&quot; alt=&quot;data types&quot; style=&quot;width:100%&quot; /&gt;
+    &lt;img src=&quot;./5/coordinates.png&quot; alt=&quot;data types&quot; style=&quot;width:100%&quot; /&gt;
 &lt;/figure&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -121,14 +121,14 @@ Ordered/Unordered?
   &lt;/li&gt;
   &lt;li&gt;What is wrong with the following visualization?
     &lt;figure&gt;
-    &lt;img src=&quot;./3/wrong.png&quot; alt=&quot;wrong&quot; style=&quot;width:80%&quot; /&gt;
+    &lt;img src=&quot;./5/wrong.png&quot; alt=&quot;wrong&quot; style=&quot;width:80%&quot; /&gt;
 &lt;/figure&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/visualization-coloring/visualization-coloring&quot; target=&quot;_blank&quot;&gt;Best visualization coloring&lt;/a&gt;.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/vis-excel-temp-honolulu-duluth/vis-temp-honolulu-duluth-excel&quot; target=&quot;_blank&quot;&gt;Visualizing and comparing the temperatures of Honolulu and Duluth via Excel&lt;/a&gt; (&lt;strong&gt;Only parts 1, 2, 3&lt;/strong&gt;).&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/vis-excel-temp-honolulu-duluth/vis-temp-honolulu-duluth-excel&quot; target=&quot;_blank&quot;&gt;Visualizing and comparing the temperatures of Honolulu and Duluth via Excel&lt;/a&gt; (&lt;strong&gt;Only parts 1, 2, 5&lt;/strong&gt;).&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/vis-excel-rain-sunshine/vis-excel-rain-sunlight&quot; target=&quot;_blank&quot;&gt;Visualizing the average precipitation of the US states vs. sunshine&lt;/a&gt;.&lt;/p&gt;
