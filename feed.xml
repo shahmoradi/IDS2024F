@@ -7,7 +7,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/IDS2024F/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/IDS2024F/" />
-<updated>2024-11-18T12:17:14-06:00</updated>
+<updated>2024-11-18T18:34:34-06:00</updated>
 <id>http:/IDS2024F/</id>
 <author>
   <name>Amir Shahmoradi</name>
@@ -114,9 +114,6 @@ Ordered/Unordered?
 &lt;/figure&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;What kind of data set can be best visualized in &lt;em&gt;polar coordinates&lt;/em&gt;?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
     &lt;p&gt;Name four different color scales and explain their most appropriate usage.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;What is wrong with the following visualization?
@@ -127,20 +124,12 @@ Ordered/Unordered?
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/visualization-coloring/visualization-coloring&quot; target=&quot;_blank&quot;&gt;Best visualization coloring&lt;/a&gt;.&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/vis-excel-temp-honolulu-duluth/vis-temp-honolulu-duluth-excel&quot; target=&quot;_blank&quot;&gt;Visualizing and comparing the temperatures of Honolulu and Duluth via Excel&lt;/a&gt; (&lt;strong&gt;Only parts 1, 2, 5&lt;/strong&gt;).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/vis-excel-rain-sunshine/vis-excel-rain-sunlight&quot; target=&quot;_blank&quot;&gt;Visualizing the average precipitation of the US states vs. sunshine&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/vis-excel-axis-transformation/vis-excel-axis-transformation&quot; target=&quot;_blank&quot;&gt;Better visualizations through axes transformations&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/probability-bayes-rule-proof-venn-disgram/probability-bayes-rule-proof-venn-disgram&quot; target=&quot;_blank&quot;&gt;The proof of Bayes’ Rule via Venn diagram&lt;/a&gt;.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/probability-schools-of-thought/probability-schools-of-thought&quot; target=&quot;_blank&quot;&gt;The major schools of thought in Probability Theory&lt;/a&gt;.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Extra Credit&lt;/strong&gt;: &lt;a href=&quot;https://www.cdslab.org/recipes/programming/puzzle-how-many-animals-in-pond/puzzle-how-many-animals-in-pond&quot; target=&quot;_blank&quot;&gt;Puzzle: What living creatures do you see?&lt;/a&gt;.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Extra Credit&lt;/strong&gt;: &lt;a href=&quot;https://www.cdslab.org/recipes/programming/puzzle-matchstick-equation/puzzle-matchstick-equation&quot; target=&quot;_blank&quot;&gt;Puzzle: Matchstick Wrong Equation&lt;/a&gt;.&lt;/li&gt;
 &lt;/ol&gt;
+
 
   
   &lt;p&gt;&lt;a href=&quot;http:/IDS2024F/homework/5-data-vis-modeling&quot;&gt;Homework 5: Data visualization, modeling, and classification&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2024F&quot;&gt;DATA 1301 - Fall 2024 - MW 16:00-17:20 - PKH 113 / Microsoft Teams Virtual Room&lt;/a&gt; on November 05, 2024.&lt;/p&gt;</content>
