@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Quiz 5: Probability and Data Visualization",
+		  "category"   : "",
+		  "url"        : "/IDS2024F/quiz/probability-data-vis",
+		  "date"       : "2024-11-20 00:00:00 -0600",
+		  "shortdate"  : "November 20, 2024"
+		} ,
+	
+		{
 		  "title"      : "Lecture 5: Data Visualization Techniques",
 		  "category"   : "",
 		  "url"        : "/IDS2024F/lecture/5-data.vis",

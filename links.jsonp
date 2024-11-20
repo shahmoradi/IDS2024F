@@ -2,6 +2,11 @@
 callback([
 
   {
+    "text": "Quiz 5: Probability and Data Visualization",
+    "href": "/IDS2024F/quiz/probability-data-vis"
+  } ,
+
+  {
     "text": "Quiz 4: Logic and Boolean Algebra",
     "href": "/IDS2024F/quiz/4-logic-functions"
   } ,
