@@ -52,6 +52,11 @@ callback([
   } ,
 
   {
+    "text": "Homework 6: Data modeling, and classification",
+    "href": "/IDS2024F/homework/6-data-modeling"
+  } ,
+
+  {
     "text": "Homework 5: Data visualization, modeling, and classification",
     "href": "/IDS2024F/homework/5-data-vis-modeling"
   } ,
