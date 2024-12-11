@@ -82,6 +82,11 @@ callback([
   } ,
 
   {
+    "text": "Final Exam",
+    "href": "/IDS2024F/exam/1-final"
+  } ,
+
+  {
     "text": "Announcement 1: Assessing your programming knowledge and interests",
     "href": "/IDS2024F/announcement/1-assessing-your-programming-knowledge-and-interests"
   } ,
