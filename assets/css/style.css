@@ -1096,4 +1096,8 @@ img.mfp-img {
   right: 0;
   padding-top: 0; }
 
-
+/* 
+Remove ads from the Disqus section.
+https://stackoverflow.com/questions/49131980/how-do-i-disable-or-hide-the-unwanted-disqus-ads-on-my-website
+*/
+div#disqus_thread iframe[sandbox]{max-height: 0px !important;}
