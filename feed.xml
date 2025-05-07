@@ -7,7 +7,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/IDS2024F/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/IDS2024F/" />
-<updated>2024-12-29T21:32:10-05:00</updated>
+<updated>2025-05-06T20:47:36-05:00</updated>
 <id>http:/IDS2024F/</id>
 <author>
   <name>Amir Shahmoradi</name>
@@ -20,8 +20,8 @@
   <title type="html"><![CDATA[Final Exam]]></title>
   <link rel="alternate" type="text/html" href="http:/IDS2024F/exam/1-final"/>
   <id>http:/IDS2024F/exam/1-final</id>
-  <published>2024-12-11T00:00:00-05:00</published>
-  <updated>2024-12-11T00:00:00-05:00</updated>
+  <published>2024-12-11T00:00:00-06:00</published>
+  <updated>2024-12-11T00:00:00-06:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
     <uri>http:/IDS2024F</uri>
@@ -206,8 +206,8 @@ Which one is intrinsic? (1 points)&lt;/li&gt;
   <title type="html"><![CDATA[Homework 6: Data modeling, and classification]]></title>
   <link rel="alternate" type="text/html" href="http:/IDS2024F/homework/6-data-modeling"/>
   <id>http:/IDS2024F/homework/6-data-modeling</id>
-  <published>2024-11-25T00:00:00-05:00</published>
-  <updated>2024-11-25T00:00:00-05:00</updated>
+  <published>2024-11-25T00:00:00-06:00</published>
+  <updated>2024-11-25T00:00:00-06:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
     <uri>http:/IDS2024F</uri>
@@ -237,8 +237,8 @@ Machine Learning data visualization concepts, modeling, and classification techn
   <title type="html"><![CDATA[Quiz 5: Probability and Data Visualization]]></title>
   <link rel="alternate" type="text/html" href="http:/IDS2024F/quiz/probability-data-vis"/>
   <id>http:/IDS2024F/quiz/probability-data-vis</id>
-  <published>2024-11-20T00:00:00-05:00</published>
-  <updated>2024-11-20T00:00:00-05:00</updated>
+  <published>2024-11-20T00:00:00-06:00</published>
+  <updated>2024-11-20T00:00:00-06:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
     <uri>http:/IDS2024F</uri>
@@ -385,7 +385,7 @@ This kind of data is called &lt;strong&gt;time series data&lt;/strong&gt; where 
   <title type="html"><![CDATA[Lecture 5: Data Visualization Techniques]]></title>
   <link rel="alternate" type="text/html" href="http:/IDS2024F/lecture/5-data.vis"/>
   <id>http:/IDS2024F/lecture/5-data.vis</id>
-  <published>2024-11-05T00:00:00-05:00</published>
+  <published>2024-11-05T00:00:00-06:00</published>
   <updated>0000-00-00T00:00:00-00:00</updated>
   
   <author>
@@ -422,8 +422,8 @@ By the end of this lecture you will,&lt;/p&gt;
   <title type="html"><![CDATA[Homework 5: Data visualization, modeling, and classification]]></title>
   <link rel="alternate" type="text/html" href="http:/IDS2024F/homework/5-data-vis-modeling"/>
   <id>http:/IDS2024F/homework/5-data-vis-modeling</id>
-  <published>2024-11-05T00:00:00-05:00</published>
-  <updated>2024-11-05T00:00:00-05:00</updated>
+  <published>2024-11-05T00:00:00-06:00</published>
+  <updated>2024-11-05T00:00:00-06:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
     <uri>http:/IDS2024F</uri>
@@ -505,8 +505,8 @@ Ordered/Unordered?
   <title type="html"><![CDATA[Quiz 4: Logic and Boolean Algebra]]></title>
   <link rel="alternate" type="text/html" href="http:/IDS2024F/quiz/4-logic-functions"/>
   <id>http:/IDS2024F/quiz/4-logic-functions</id>
-  <published>2024-10-30T00:00:00-04:00</published>
-  <updated>2024-10-30T00:00:00-04:00</updated>
+  <published>2024-10-30T00:00:00-05:00</published>
+  <updated>2024-10-30T00:00:00-05:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
     <uri>http:/IDS2024F</uri>
@@ -577,7 +577,7 @@ How does $A$ look relative to $B$? Does the same also hold for $\overline{B}$ re
   <title type="html"><![CDATA[Lecture 4: Probability Theory]]></title>
   <link rel="alternate" type="text/html" href="http:/IDS2024F/lecture/4-probability"/>
   <id>http:/IDS2024F/lecture/4-probability</id>
-  <published>2024-10-21T00:00:00-04:00</published>
+  <published>2024-10-21T00:00:00-05:00</published>
   <updated>0000-00-00T00:00:00-00:00</updated>
   
   <author>
@@ -603,8 +603,8 @@ How does $A$ look relative to $B$? Does the same also hold for $\overline{B}$ re
   <title type="html"><![CDATA[Homework 4: Logical Expressions and Probability Theory]]></title>
   <link rel="alternate" type="text/html" href="http:/IDS2024F/homework/4-logic-probability"/>
   <id>http:/IDS2024F/homework/4-logic-probability</id>
-  <published>2024-10-21T00:00:00-04:00</published>
-  <updated>2024-10-21T00:00:00-04:00</updated>
+  <published>2024-10-21T00:00:00-05:00</published>
+  <updated>2024-10-21T00:00:00-05:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
     <uri>http:/IDS2024F</uri>
@@ -662,8 +662,8 @@ How does $A$ look relative to $B$? Does the same also hold for $\overline{B}$ re
   <title type="html"><![CDATA[Quiz 3: Inference and Logic Fundamentals]]></title>
   <link rel="alternate" type="text/html" href="http:/IDS2024F/quiz/3-logic"/>
   <id>http:/IDS2024F/quiz/3-logic</id>
-  <published>2024-10-16T00:00:00-04:00</published>
-  <updated>2024-10-16T00:00:00-04:00</updated>
+  <published>2024-10-16T00:00:00-05:00</published>
+  <updated>2024-10-16T00:00:00-05:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
     <uri>http:/IDS2024F</uri>
@@ -843,8 +843,8 @@ How many decimal integers (or call it different states, or different possibiliti
   <title type="html"><![CDATA[Homework 3: Logic and Probability Theory]]></title>
   <link rel="alternate" type="text/html" href="http:/IDS2024F/homework/3-logic"/>
   <id>http:/IDS2024F/homework/3-logic</id>
-  <published>2024-10-09T00:00:00-04:00</published>
-  <updated>2024-10-09T00:00:00-04:00</updated>
+  <published>2024-10-09T00:00:00-05:00</published>
+  <updated>2024-10-09T00:00:00-05:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
     <uri>http:/IDS2024F</uri>
@@ -990,7 +990,7 @@ c.  Each box can have only two states. Therefore,
   <title type="html"><![CDATA[Lecture 3: Logic and Probability Theory]]></title>
   <link rel="alternate" type="text/html" href="http:/IDS2024F/lecture/3-logic.probability"/>
   <id>http:/IDS2024F/lecture/3-logic.probability</id>
-  <published>2024-10-07T00:00:00-04:00</published>
+  <published>2024-10-07T00:00:00-05:00</published>
   <updated>0000-00-00T00:00:00-00:00</updated>
   
   <author>
@@ -1016,8 +1016,8 @@ c.  Each box can have only two states. Therefore,
   <title type="html"><![CDATA[Quiz 2: Programming History]]></title>
   <link rel="alternate" type="text/html" href="http:/IDS2024F/quiz/2-prog-hist"/>
   <id>http:/IDS2024F/quiz/2-prog-hist</id>
-  <published>2024-10-02T00:00:00-04:00</published>
-  <updated>2024-10-02T00:00:00-04:00</updated>
+  <published>2024-10-02T00:00:00-05:00</published>
+  <updated>2024-10-02T00:00:00-05:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
     <uri>http:/IDS2024F</uri>
@@ -1174,7 +1174,7 @@ What is the value of S? Explain your novel strategy to get your answer.&lt;/p&gt
   <title type="html"><![CDATA[Lecture 2: Scientific Computing - A Brief History and the State of the Art]]></title>
   <link rel="alternate" type="text/html" href="http:/IDS2024F/lecture/2-programming-history"/>
   <id>http:/IDS2024F/lecture/2-programming-history</id>
-  <published>2024-09-23T00:00:00-04:00</published>
+  <published>2024-09-23T00:00:00-05:00</published>
   <updated>0000-00-00T00:00:00-00:00</updated>
   
   <author>
@@ -1203,8 +1203,8 @@ languages and their mutual interaction with rapid developments in natural scienc
   <title type="html"><![CDATA[Homework 2: Programming History]]></title>
   <link rel="alternate" type="text/html" href="http:/IDS2024F/homework/2-programming-history"/>
   <id>http:/IDS2024F/homework/2-programming-history</id>
-  <published>2024-09-23T00:00:00-04:00</published>
-  <updated>2024-09-23T00:00:00-04:00</updated>
+  <published>2024-09-23T00:00:00-05:00</published>
+  <updated>2024-09-23T00:00:00-05:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
     <uri>http:/IDS2024F</uri>
@@ -1348,8 +1348,8 @@ How many years will it take to produce the required amount of rice grains to pla
   <title type="html"><![CDATA[Quiz 1: Version Control Systems]]></title>
   <link rel="alternate" type="text/html" href="http:/IDS2024F/quiz/1-intro-vcs"/>
   <id>http:/IDS2024F/quiz/1-intro-vcs</id>
-  <published>2024-09-18T00:00:00-04:00</published>
-  <updated>2024-09-18T00:00:00-04:00</updated>
+  <published>2024-09-18T00:00:00-05:00</published>
+  <updated>2024-09-18T00:00:00-05:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
     <uri>http:/IDS2024F</uri>
@@ -1544,7 +1544,7 @@ Which one is more appropriate to use in your GitHub projects? Why?&lt;/p&gt;
   <title type="html"><![CDATA[Lecture 1: Scientific Computing - A Brief History and the State of the Art]]></title>
   <link rel="alternate" type="text/html" href="http:/IDS2024F/lecture/1-data-science"/>
   <id>http:/IDS2024F/lecture/1-data-science</id>
-  <published>2024-08-21T00:00:00-04:00</published>
+  <published>2024-08-21T00:00:00-05:00</published>
   <updated>0000-00-00T00:00:00-00:00</updated>
   
   <author>
@@ -1572,8 +1572,8 @@ languages and their mutual interaction with rapid developments in natural scienc
   <title type="html"><![CDATA[Homework 1: Version Control Using Git and Github]]></title>
   <link rel="alternate" type="text/html" href="http:/IDS2024F/homework/1-vcs"/>
   <id>http:/IDS2024F/homework/1-vcs</id>
-  <published>2024-08-21T00:00:00-04:00</published>
-  <updated>2024-08-21T00:00:00-04:00</updated>
+  <published>2024-08-21T00:00:00-05:00</published>
+  <updated>2024-08-21T00:00:00-05:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
     <uri>http:/IDS2024F</uri>
@@ -1620,8 +1620,8 @@ Inside the &lt;code&gt;hw&lt;/code&gt; folder, create another folder named &lt;c
   <title type="html"><![CDATA[Announcement 0: Student-professor connection day]]></title>
   <link rel="alternate" type="text/html" href="http:/IDS2024F/announcement/0-student-professor-connection-day"/>
   <id>http:/IDS2024F/announcement/0-student-professor-connection-day</id>
-  <published>2024-08-19T00:00:00-04:00</published>
-  <updated>2024-08-19T00:00:00-04:00</updated>
+  <published>2024-08-19T00:00:00-05:00</published>
+  <updated>2024-08-19T00:00:00-05:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
     <uri>http:/IDS2024F</uri>
@@ -1983,8 +1983,8 @@ Inside the &lt;code&gt;hw&lt;/code&gt; folder, create another folder named &lt;c
   <title type="html"><![CDATA[Announcement 1: Assessing your programming knowledge and interests]]></title>
   <link rel="alternate" type="text/html" href="http:/IDS2024F/announcement/1-assessing-your-programming-knowledge-and-interests"/>
   <id>http:/IDS2024F/announcement/1-assessing-your-programming-knowledge-and-interests</id>
-  <published>2024-08-12T00:00:00-04:00</published>
-  <updated>2024-08-12T00:00:00-04:00</updated>
+  <published>2024-08-12T00:00:00-05:00</published>
+  <updated>2024-08-12T00:00:00-05:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
     <uri>http:/IDS2024F</uri>
